@@ -1,0 +1,8 @@
+Dept_ID,Department_Name,Dept_Addr1,Dept_Addr2,Dept_City,Dept_State,Dept_Zip,Dep_Country
+D001,Engineering,1001 Castillo Ln,Suite 2001,Charlotte,NC,28202,US
+D002,Sales,9891 Merium Dr,Suite 100,Los Angeles,CA,90014,US
+D003,IT,1001 Castillo Ln,Suite 2001,Charlotte,NC,28202,US
+D004,Accounting,818 S. Broadway St,St 801,Los Angeles,CA,90014,US
+D005,Finance,818 S. Broadway St,St 801,Los Angeles,CA,90014,US
+D006,Marketing,818 S. Broadway St,St 801,Los Angeles,CA,90014,US
+D007,Human Resources,1001 Castillo Ln,Suite 2001,Charlotte,NC,28202,US
