@@ -1,6 +1,6 @@
 # Visualization-Using-SQL-Data-with-Power-BI
 
-- <b>Visualization Using SQL Data with Power BI</b>
+
   - <b>Description:</b> This project will use SQL Import Data from the SQL Database. 
   - <b>Technology Used:</b> Microsoft SQL Server, Microsoft Power BI
   - <b>Files Used:</b> 
