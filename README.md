@@ -3,7 +3,7 @@
 
   - <b>Description:</b> This project will use SQL Import Data from the SQL Database. 
   - <b>Technology Used:</b> Microsoft SQL Server, Microsoft Power BI
-  - <b>Files Used:</b> 
+  - <b>CSV Files Used:</b> DepartmentSampleData.CVS(1) and EmployeeSampleData(1).csv 
     - Report for Ethnicity by Business Unit – Pie Chart
     - Count of Employees by Business Unit – Funnel Chart
     - Avg of Salaries by Department – Gauge Chart
