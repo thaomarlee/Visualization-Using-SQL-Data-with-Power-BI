@@ -1,17 +1,13 @@
 # Visualization-Using-SQL-Data-with-Power-BI
 
 - <b>Visualization Using SQL Data with Power BI</b>
-  - <b>Description:</b> Build a data analysis visual using Sales Data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data.
+  - <b>Description:</b> This project will use SQL Import Data from the SQL Database. 
   - <b>Technology Used:</b> Microsoft SQL Server, Microsoft Power BI
-    - All Employee Data (based on Query)
-    - Employee by Dept (Count(EmpID,Department Name)
-    - Employee Sal by Dept (Sum(EmpSal),Department Name)
-    - Employees by Dept Name
-    - Filters: By Department, By Department City
-    - Sales by Product
-    - Sales and Profit by Product
-    - Filters: By Product, by Country, By SegmentSales By Genre
-    - Total Sales After the Year 2013 (Include 2013 Sales)
-    - Display Total Sales separately by NA, EU, JP and Other
-    - Create a Report for Average Sales by Genre
-    
+  - <b>Files Used:</b> 
+    - Report for Ethnicity by Business Unit – Pie Chart
+    - Count of Employees by Business Unit – Funnel Chart
+    - Avg of Salaries by Department – Gauge Chart
+    - Avg of Salaries by Department after Bonus (Revised Sal) – Gauge Chart
+    - Count of Employees by Dept_Zip Code – Clustered Bar Chart
+    - Count of Employees by Department – Clustered Col Chart
+      
